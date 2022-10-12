@@ -5,7 +5,7 @@ namespace JM // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello Jakob!");
+            System.Console.WriteLine("Hello Jacob!");
         }
     }
 }
